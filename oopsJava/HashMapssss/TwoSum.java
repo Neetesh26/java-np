@@ -1,4 +1,4 @@
-import java.util.HashSet;
+import java.util.*;
 
 public class TwoSum {
      boolean twoSum(int arr[], int target) {
